@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/aryanag7/aryanag7/blob/main/python.jpg" width="1000" height="300"/>
 <h1 align="center">Hi 👋, I'm Aryan Agrawal</h1>
 <h3 align="center">An IT undergrad who loves coding and looking forward to contributing to a team.</h3>
 
