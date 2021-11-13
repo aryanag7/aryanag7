@@ -3,6 +3,7 @@
 <h3 align="center">An IT undergrad who loves coding and looking forward to contributing to a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanag7&label=Profile%20views&color=0e75b6&style=flat" alt="aryanag7" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/aryanag7/aryanag7/blob/main/tenor.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanag7?tab=repositories](https://github.com/aryanag7?tab=repositories)
 
@@ -24,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanag7&show_icons=true&locale=en" alt="aryanag7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanag7&" alt="aryanag7" /></p>
+
