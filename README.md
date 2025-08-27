@@ -1,14 +1,19 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I'm Aryan Agrawal, and I'm passionate about using technology to solve real-world problems. I'm currently pursuing my Master's in Computer Science at Indiana University, Bloomington. Over the years, I've had the opportunity to work on projects that have allowed me to explore a variety of technologies and cloud solutions, and most importantly, make a tangible impact.
+Hi, I'm Aryan Agrawal, and I'm passionate about using technology to solve real-world problems. I'm currently pursuing my Master's in Computer Science at Indiana University, Bloomington, and I’m an ex SWE Intern at Gametime Hero. Over the years, I've had the opportunity to work on projects that have allowed me to explore a variety of technologies and cloud solutions, and most importantly, make a tangible impact.
 
 I believe that every line of code has the potential to improve something, whether it's optimizing costs, enhancing user experience, or building solutions that scale. I'm not just about writing code—I focus on creating value and delivering solutions that solve meaningful challenges.
 
-## 🛠️ My Approach
+## 🚀 Previously @Gametime Hero - SWE Intern
 
-Throughout my projects, I focus on more than just technical skills. It's about understanding the problem, evaluating possible solutions, and executing them in a way that drives real impact. I apply this mindset whether I'm working on cloud cost optimization, building a full-stack application, or developing machine learning models for text classification.
+My first industry internship = tons of learning beyond just syntax. I got comfortable in a big codebase, wrote small, clean modules, and learned how good pull requests + feedback loops keep teams fast. Team ritual: demo-o’clock—show a tiny win, snag quick feedback, and ship it. Also mastered the ancient art of turning “works on my machine” into “works on everyone’s machine.” 😄
 
-Every project is a journey. It starts with identifying a problem, and then comes the fun part—leveraging the right tools and technology to craft innovative solutions that make lives easier and businesses more efficient.
+My big win: I built a platform-level translation system so the app can speak multiple languages consistently. One place to manage copy, instant language switching in the UI, and an easy path for new pages to “just work” with translations—less duplicate effort, more consistency, and future languages made simple.
+
+To keep things sturdy, I added tests around translations, directive bindings, and reactive forms. I also wired organizer sign-ups into ClickUp (auto-tasks with context) and cleaned up issues that caused stale screens or duplicate actions—fewer hard refreshes, smoother flows, happier users.
+
+Tech I enjoyed: Angular + TypeScript (Signals/RxJS), Firebase, Git/GitHub, ClickUp.
+
 
 ## 🌍 What I've Built
 
