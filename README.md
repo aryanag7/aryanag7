@@ -57,6 +57,8 @@ Technology is all about collaboration. I'm always looking for opportunities to c
 
 - 📧 Email: aryagraw@iu.edu
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/agrawal-aryan23/)
+- 📄 Resume: [Resume (PDF)](https://drive.google.com/file/d/1j5dyoDpsS--tYLRGFhAvWqZJwzpsTVfg/view?usp=sharing)
+
 
 ## ⚡ Fun Facts
 
